@@ -1,6 +1,6 @@
 # Calculadora Emprestimo Fase Beta
 
-Calculadora de Empréstimo em JavaScript (DESAFIO PARA ENCONTRAR ERRO)
+Calculadora de Empréstimo em JavaScript (DESAFIO PARA ENCONTRAR ERROS)
 
 Este é um projeto de uma calculadora de empréstimo desenvolvida em JavaScript,HTML CSS. Ela permite calcular o valor do empréstimo, o pagamento mensal, o valor total pago e o total de juros pagos ao longo do período de empréstimo.
 
